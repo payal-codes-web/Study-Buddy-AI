@@ -29,8 +29,8 @@ Run the following command in your terminal:
 `streamlit run app.py`
 Then open `http://localhost:8501` in your browser.
 
-## Group Members — Salim Habib University (SHU)
+## Group Members — Salim Habib University
 
 * Payal
-* Wania
-* Farwa
+* Wania Naeem
+* Farwa Naz
