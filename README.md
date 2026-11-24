@@ -1,4 +1,3 @@
-
 # Study Buddy AI
 
 **Study Buddy AI** is an AI-powered learning and revision web application built with **Python**, **Streamlit**, and the **Google Gemini API**. Students can upload lecture notes in PDF, Word (`.docx`), PowerPoint (`.pptx`), or text (`.txt`) format to get context-grounded tutoring, non-spoiler guided hints, active-recall flashcards, practice quizzes, and spaced revision analytics.
@@ -29,7 +28,7 @@ Run the following command in your terminal:
 `streamlit run app.py`
 Then open `http://localhost:8501` in your browser.
 
-## Group Members — Salim Habib University
+## Group Members 
 
 * Payal
 * Wania Naeem
