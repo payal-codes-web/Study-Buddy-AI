@@ -50,9 +50,9 @@ Then open `http://localhost:8501` in your browser.
 
 ## Group Members — Salim Habib University 
 
- Payal
- Wania Naeem
- Farwa Naz
+* Payal
+* Wania Naeem
+* Farwa Naz
 
 ```
 
