@@ -1,10 +1,3 @@
-Aha! Screenshot mein saaf nazar aa raha hai ke `1. Clone the repository:` wale box ke neeche ek extra ````` aa gaya hai (aur URL ke gird `[...]` brackets lag gaye hain), is liye neeche wala part (`2. **Install required libraries:**`) raw text ban gaya hai.
-
-Isay **10 second** mein fix karne ke liye:
-
-1. GitHub par `README.md` ke **Edit (pencil)** icon par click karein.
-2. **`Ctrl + A`** aur **`Backspace`** daba kar poora purana text saaf kar dein.
-3. Neeche diya gaya **exact clean text** copy-paste karke **Commit changes** daba dein:
 
 # Study Buddy AI
 
